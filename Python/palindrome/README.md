@@ -7,9 +7,6 @@
 ## Introduction
 This Python script checks whether an integer is a palindrome, meaning it reads the same backward as forward. It's a solution to the [Palindrome Number problem](https://leetcode.com/problems/palindrome-number/description/) on LeetCode.
 <br></br>
-(:برای خوندن راه حل به فارسی میتونین از پستی که داخل ویرگول گذاشتم استفاده بکنین
-[Palindrome checker](---)
-
 ## How It Works
 - If the input integer is negative, it returns False because negative numbers are not palindromes.
 
